@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Renders Header 1`] = `
+<header>
+  <nav>
+    <Link
+      to="/red"
+    >
+      Red.
+    </Link>
+    <Link
+      to="/blue"
+    >
+      Blue.
+    </Link>
+    <Link
+      to="/yellow"
+    >
+      Yellow.
+    </Link>
+  </nav>
+</header>
+`;

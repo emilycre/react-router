@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Renders App 1`] = `
+<BrowserRouter>
+  <Header />
+  <Switch>
+    <Route
+      component={[Function]}
+      path="/red"
+    />
+    <Route
+      component={[Function]}
+      path="/blue"
+    />
+    <Route
+      component={[Function]}
+      path="/yellow"
+    />
+  </Switch>
+</BrowserRouter>
+`;
+
+exports[`Blue Component Renders Blue 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "blue",
+      "height": "100vh",
+      "width": "100vw",
+    }
+  }
+/>
+`;
