@@ -5,8 +5,10 @@ exports[`Yellow Component Renders Yellow 1`] = `
   style={
     Object {
       "backgroundColor": "yellow",
-      "height": "100vh",
-      "width": "100vw",
+      "borderRadius": "50%",
+      "height": "200px",
+      "margin": "1em",
+      "width": "200px",
     }
   }
 />
