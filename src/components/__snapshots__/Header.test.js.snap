@@ -18,6 +18,11 @@ exports[`Header Component Renders Header 1`] = `
     >
       Yellow.
     </Link>
+    <Link
+      to="/coral"
+    >
+      Coral
+    </Link>
   </nav>
 </header>
 `;
